@@ -4,23 +4,6 @@ A Spring Boot web application for a coffee shop, featuring an online HTML templa
 
 ---
 
-## 📋 Table of Contents
-
-- [Features](#-features)
-- [Tech Stack](#-tech-stack)
-- [Project Structure](#-project-structure)
-- [Prerequisites](#-prerequisites)
-- [Setup & Installation](#-setup--installation)
-- [Configuration](#-configuration)
-- [Database Schema](#-database-schema)
-- [API Endpoints](#-api-endpoints)
-- [Validation Rules](#-validation-rules)
-- [Telegram Bot Notifications](#-telegram-bot-notifications)
-- [Testing](#-testing)
-- [Troubleshooting](#-troubleshooting)
-
----
-
 ## ✨ Features
 
 This project includes four main feature modules, each with full client-side and server-side validation:
